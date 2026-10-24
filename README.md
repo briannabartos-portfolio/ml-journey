@@ -1,4 +1,3 @@
-# ml-journey
 # ML Journey
 
 Learning machine learning and AI safety from zero, one small experiment at a time.
